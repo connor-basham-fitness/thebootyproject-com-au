@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: thebootyproject-com-au
+description: The Booty Project website
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://connor-basham-fitness.github.io/thebootyproject-com-au
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
